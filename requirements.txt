@@ -1,0 +1,8 @@
+langchain
+Langchain_groq
+langchain-openai
+langserve
+python-dotenv
+fastapi
+langchain_core.prompts
+langchain_core.output_parsers
